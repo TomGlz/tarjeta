@@ -1,0 +1,4 @@
+.form-group .jp-card-invalid, .form-container .jp-card-invalid {
+   color:red !important;
+   border-color: red;
+}

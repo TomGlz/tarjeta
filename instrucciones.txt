@@ -1,0 +1,15 @@
+Simular validación de tarjeta
+
+1. Deberas de crear un formulario que valide que los datos inegresados son validos.
+2. Los datos a pedir son Nombre completo, numero de cuenta, fecha de expiración, y CCV.
+3. Al momento de ir escribiendo los datos, estos deben de irse dibujando en la tarjeta.
+4. Si es nombre es escrito en minusculas en la tarjeta deben de aparecer en mayusculas. 
+5. El numero de la tarjeta debe estar separado cada 4 digitos (1234 1234 1234 1234) tanto en la tarjeta como en el formulario
+6. Usar solo CSS, HTML, JS  y Vue como lenjuajes.
+
+
+Librerias y documentacion de apoyo:
+- https://vuejs.org/guide/essentials/forms.html
+- https://github.com/jondavidjohn/payform#api
+
+Se es libre de usar el diseño que se quiera, si hay otras librerias que pueden funcionar mejor se es libre de usar cualquier.
